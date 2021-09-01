@@ -1,0 +1,13 @@
+.profile-card {
+  background-color: white;
+}
+.avatar {
+  display: flex;
+  justify-content: center;
+}
+.avatar img {
+  border-radius: 50%;
+}
+
+.avatar .online-status {
+}
